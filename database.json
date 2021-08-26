@@ -77,18 +77,19 @@
         {
             "id": 1,
             "customerId": 4,
-            "employeeId": 1,
+            "employeeId": 2,
             "description": "iPhone case cracked. Please replace.",
             "emergency": false,
             "dateCompleted": "2021-05-26"
         },
         {
             "id": 2,
-            "customerId": 7,
-            "employeeId": 4,
-            "description": "Cannot connect to any wifi.",
+            "customerId": 8,
+            "employeeId": 1,
+            "description": "wifi ain't working. Please fix it, bawse.",
             "emergency": true,
-            "dateCompleted": ""
+            "dateCompleted": "2021-08-22"
         }
+        
     ]
 }
